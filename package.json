@@ -1,0 +1,16 @@
+{
+	"name" : "require.js",
+	"version" : "0.0.1",
+	"description" : "require function in a browser",
+	"keywords" : ["require", "script.js"],
+	"author" : "ykoga",
+	"main" : "index",
+	"engines" : {"node" : ">=0.0.1"},
+	"scripts" : {
+		"test" : "make test"
+	},
+	"devDependencies" : {
+		"mocha" : "1.8.x",
+		"should" : "*"
+	}
+}
