@@ -1,2 +1,6 @@
 require.js
 ==========
+
+# motivation
+## hello
+
